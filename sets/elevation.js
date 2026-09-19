@@ -6120,7 +6120,7 @@ cardSet[35062] = {
 };
 
 //Syailendra
-//Weyland Ice: Barrier
+//Weyland Ice: Code Gate - AP
 //Rez: 4, Strength: 5
 //You can advance this ice.
 //When the Runner encounters this ice, if it has 3 or more hosted advancement counters, 
@@ -6135,7 +6135,7 @@ cardSet[35076] = {
   faction: "Weyland Consortium",
   influence: 2,
   cardType: "ice",
-  subTypes: ["Barrier"],
+  subTypes: ["Code Gate", "AP"],
   rezCost: 4,
   strength: 5,
   canBeAdvanced: true,
